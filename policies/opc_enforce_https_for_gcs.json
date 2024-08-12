@@ -1,0 +1,4 @@
+{
+  "constraint": "storage.requireTls",
+  "status": "ENFORCED"
+}
