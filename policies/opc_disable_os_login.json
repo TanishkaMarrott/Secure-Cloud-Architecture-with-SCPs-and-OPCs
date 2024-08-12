@@ -1,0 +1,4 @@
+{
+  "constraint": "compute.disableOsLogin",
+  "status": "ENFORCED"
+}
