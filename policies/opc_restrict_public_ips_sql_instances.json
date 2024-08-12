@@ -1,0 +1,4 @@
+{
+  "constraint": "sql.restrictPublicIp",
+  "status": "ENFORCED"
+}
