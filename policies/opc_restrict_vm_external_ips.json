@@ -1,0 +1,4 @@
+{
+  "constraint": "compute.vmExternalIpAccess",
+  "status": "ENFORCED"
+}
