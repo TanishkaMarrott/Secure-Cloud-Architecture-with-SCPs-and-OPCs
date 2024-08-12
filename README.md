@@ -9,9 +9,6 @@ This includes detailed code snippets, configuration files, and real-world use ca
 ## Repository Structure
 
 - **/policies**: Contains sample Organizational Policies and Service Control Policies.
-- **/scripts**: Automation scripts for applying these policies in your cloud environment.
-- **/examples**: Real-world use cases and scenarios where these policies have been applied.
-- **/docs**: Detailed documentation and explanations of each policy and its use case.
 
 ## Key Features
 
