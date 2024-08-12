@@ -1,4 +1,4 @@
-# CloudSec Best Practices: Organizational Policies and Service Control Policies
+# Enforcing Security Best Practices with AWS SCPs and GCP OPCs
 
 ## Overview
 
