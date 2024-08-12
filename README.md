@@ -2,7 +2,9 @@
 
 ## Overview
 
-Welcome to the **CloudSec Best Practices** repository! This repository is dedicated to showcasing effective strategies for implementing Organizational Policies (OPCs) and Service Control Policies (SCPs) in cloud environments to achieve a holistic security posture. This includes detailed code snippets, configuration files, and real-world use cases to help you secure your cloud infrastructure.
+ This repository is dedicated to showcasing effective strategies for implementing Organizational Policies (OPCs) and Service Control Policies (SCPs) in cloud environments to achieve a holistic security posture. 
+
+This includes detailed code snippets, configuration files, and real-world use cases to help you secure your cloud infrastructure.
 
 ## Repository Structure
 
