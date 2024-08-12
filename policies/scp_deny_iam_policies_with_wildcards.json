@@ -1,0 +1,16 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "DenyIamPoliciesWithWildcards",
+      "Effect": "Deny",
+      "Action": "iam:PassRole",
+      "Resource": "*",
+      "Condition": {
+        "StringLike": {
+          "iam:PolicyArn": "arn:aws:iam::*:policy/*"
+        }
+      }
+    }
+  ]
+}
