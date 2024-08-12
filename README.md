@@ -34,14 +34,17 @@ Implementing these policies enhances your cloud environment's security by reduci
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/cloudsec-best-practices.git
+    git clone https://github.com/TanishkaMarrott/Secure-Cloud-Architecture-with-SCPs-and-OPCs.git
     ```
+
 2. **Navigate to the repository:**
     ```bash
-    cd cloudsec-best-practices
+    cd Secure-Cloud-Architecture-with-SCPs-and-OPCs
     ```
+
 3. **Review the policies:**
     - Browse the `/policies` directory to see the Organizational Policies and Service Control Policies.
+
 4. **Apply the policies:**
     - Use the scripts in `/scripts` to apply the policies in your cloud environment.
 
